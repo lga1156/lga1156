@@ -1,7 +1,7 @@
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nikolai_meleshenko)
 [![meleshenkokolya@yandex.ru](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:meleshenkokolya@yandex.ru)
-[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=gitbook&logoColor=ffffff)](https://disk.yandex.ru/i/jmq82mNhryz6oA)
+[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=gitbook&logoColor=ffffff)](https://disk.yandex.ru/d/lFE4btVQABYx9w)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-161B22?style=for-the-badge&logo=typescript&logoColor=ffffff)
