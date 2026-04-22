@@ -16,4 +16,4 @@
 
 ### Frameworks
 ![React](https://img.shields.io/badge/react-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/angular-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/angular-161B22?style=for-the-badge&logo=angular&logoColor=ffffff)
